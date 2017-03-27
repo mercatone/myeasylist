@@ -12265,7 +12265,6 @@ _youtube_social_
 ||wykop.pl/dataprovider/diggerwidget/$third-party
 ||xing-share.com^$third-party
 ||xing.com/img/buttons/$third-party
-||youtube.com/subscribe_embed?$third-party
 ||youtube.com/subscribe_widget$third-party
 ||ywidgets.awe.sm^$third-party
 ||zextit.com/partners/$third-party
